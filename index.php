@@ -9,12 +9,12 @@
 </head>
 <body>
     <div class="titulo">
-        <h3> <center> Bem vindo ao Site  Web Design em Foco</h3>
+        <h3> <center> Bem vindo ao Site  Web Design em Foco!</h3>
     </div>
     <br>    
 
     <div class="conteudo">
-        <h4> Novidades da Semana!!! </center> </h4>
+        <h4> Novidades INCRÍVEIS da Semana!!! </center> </h4>
         <br><br>
         <?php
             include 'novidades.inc';
